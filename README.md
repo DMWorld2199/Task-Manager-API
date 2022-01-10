@@ -15,5 +15,5 @@ To run this locally, install npm
 * $npm run start
 # Use The App
 * Install POSTMAN.
-* Connection Link: https://task-manager-api.herokuapp.com
+* Connection Link: https://paul-task-manager-api.herokuapp.com
 * One can now Create User, Update User, Login User, Delete User, Create Task, Update Task, Remove Task
